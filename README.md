@@ -10,7 +10,7 @@ o seu novo salario acrescido de 25%. <br> <br>
 - <b> Desafio 03 </b> Criar uma função sorteia que recebe um número n e sorteia um número entre 0 a n, retornando esse valor.  <br><br> 
 - <b> Desafio 04 </b> - Fazer tentativas de login usando While if/else. <br><br>
 - <b> Desafio 05 </b> criar a media das idades das pessoas <br><br>
-- <b> Desafio 06 </b>
+- <b> Desafio 06 </b> - brincando com as variaveis <br><br>
 - <b> Desafio 07 </b>
 - <b> Desafio 08 </b>
 - <b> Desafio 09 </b>
