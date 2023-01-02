@@ -11,6 +11,6 @@ o seu novo salario acrescido de 25%. <br> <br>
 - <b> Desafio 04 </b> - Fazer tentativas de login usando While if/else. <br><br>
 - <b> Desafio 05 </b> criar a media das idades das pessoas <br><br>
 - <b> Desafio 06 </b> - brincando com as variaveis <br><br>
-- <b> Desafio 07 </b> - usando templete string 
-- <b> Desafio 08 </b> - brincando com API Canvas 
-- <b> Desafio 09 </b> - mudar o fundo de um objeto 
+- <b> Desafio 07 </b> - usando templete string <br><br>
+- <b> Desafio 08 </b> - brincando com API Canvas <br><br>
+- <b> Desafio 09 </b> - mudar o fundo de um objeto <br><br>
