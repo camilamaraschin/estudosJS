@@ -14,8 +14,8 @@ o seu novo salario acrescido de 25%. <br> <br>
 - <b> Desafio 07 </b> - usando templete string <br><br>
 - <b> Desafio 08 </b> - brincando com API Canvas <br><br>
 - <b> Desafio 09 </b> - mudar o fundo de um objeto <br><br>
-- <b> Desafio 10 </b> -
- - <b> Desafio 11 </b> -usando o parseInt para transformar uma string em numero 
- - <b> Desafio 12 </b> -
- - <b> Desafio 13 </b> -
- - <b> Desafio 14 </b> -
+- <b> Desafio 10 </b> - <br><br>
+ - <b> Desafio 11 </b> -usando o parseInt para transformar uma string em numero <br><br>
+ - <b> Desafio 12 </b> - <br><br>
+ - <b> Desafio 13 </b> - <br><br>
+ - <b> Desafio 14 </b> - <br><br>
